@@ -1,0 +1,16 @@
+{
+    "precos": {
+        "in_natura": 65.0,
+        "assados": 8.0,
+        "frituras": 9.0,
+        "doces": 5.0,
+        "bebidas_processadas": 6.5
+    },
+    "custos_pct": {
+        "in_natura": 40.0,
+        "assados": 45.0,
+        "frituras": 50.0,
+        "doces": 35.0,
+        "bebidas_processadas": 35.0
+    }
+}

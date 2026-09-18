@@ -1,0 +1,13 @@
+{
+    "alunos": [
+        {
+            "id": "ALU-811",
+            "nome": "felipe",
+            "turma": "Ensino M\u00e9dio",
+            "responsavel": "Marina",
+            "telegram_chat_id": "8728870446",
+            "foto": "C:\\Users\\fcmar\\OneDrive\\Documentos\\Fiap\\CantinaInteligente\\faces_cadastradas\\ALU-811.jpg",
+            "limite_semanal": 4
+        }
+    ]
+}
